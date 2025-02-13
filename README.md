@@ -1,4 +1,4 @@
-# Anime Timer App
+# Anime Inspired Timer App
 
 ## Features
 - 🕰️ Auto-fetch cooking timers from API
